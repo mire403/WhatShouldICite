@@ -276,10 +276,6 @@ agent = CitationAgent(llm_client=unified_client)
 
 查看 `examples/agent_demo.md` 了解详细使用示例。
 
-## 📄 许可证
-
-MIT License
-
 ## 🤝 贡献
 
 欢迎提交 Issue 和 Pull Request！
@@ -288,3 +284,22 @@ MIT License
 
 **记住**：这是一个**写作辅助 Agent**，而不是文献生成器。它帮助你思考，而不是替你思考。
 
+---
+
+## 👤 作者 (Author)
+
+**Haoze Zheng**
+
+*   🎓 **School**: Xinjiang University (XJU)
+*   📧 **Email**: zhenghaoze@stu.xju.edu.cn
+*   🐱 **GitHub**: [mire403](https://github.com/mire403)
+
+---
+
+<div align="center">
+
+**如果这个项目对你有帮助，请给个 ⭐ Star！**
+
+<sub>Made by Haoze Zheng. 2026 WhatShouldICite.</sub>
+
+</div>
