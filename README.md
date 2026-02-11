@@ -1,6 +1,10 @@
+<div align="center">
+
 # WhatShouldICite
 
 **中文名：这段话该引谁**
+
+</div>
 
 > Suggest citations for selected text in your editor.
 
@@ -283,3 +287,4 @@ MIT License
 ---
 
 **记住**：这是一个**写作辅助 Agent**，而不是文献生成器。它帮助你思考，而不是替你思考。
+
